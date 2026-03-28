@@ -80,9 +80,15 @@
 ### 📈 Моя активность
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Textile86&show_icons=true&theme=default&hide=prs,issues&count_private=true" alt="GitHub Stats" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Textile86&show_icons=true&theme=dark&hide=prs,issues&count_private=true" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Textile86&show_icons=true&theme=default&hide=prs,issues&count_private=true" />
+  </picture>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Textile86&layout=compact&theme=default&hide=html,css" alt="Top Languages" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Textile86&layout=compact&theme=dark&hide=html,css" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Textile86&layout=compact&theme=default&hide=html,css" />
+  </picture>
 </div>
 
 ---
