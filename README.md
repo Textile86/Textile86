@@ -79,8 +79,11 @@
 
 ### 📈 Моя активность
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Textile86&show_icons=true&theme=default&hide=prs,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Textile86&layout=compact&hide=html,css)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Textile86&show_icons=true&theme=default&hide=prs,issues&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Textile86&layout=compact&theme=default&hide=html,css" alt="Top Languages" />
+</div>
 
 ---
 
