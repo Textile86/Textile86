@@ -79,17 +79,7 @@
 
 ### 📈 Моя активность
 
-<div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Textile86&show_icons=true&theme=dark&hide=prs,issues&count_private=true" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Textile86&show_icons=true&theme=default&hide=prs,issues&count_private=true" />
-  </picture>
-  <br/>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Textile86&layout=compact&theme=dark&hide=html,css" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Textile86&layout=compact&theme=default&hide=html,css" />
-  </picture>
-</div>
+![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=Textile86&theme=default)
 
 ---
 
