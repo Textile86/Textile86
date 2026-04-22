@@ -7,12 +7,12 @@
 
 ### 🧑‍💻 Обо мне
 
-- 💼 Завершаю курс **Хекслет "Java-разработчик"** (модуль 6 из 7)
+- 💼 Закончил курс **Хекслет "Java-разработчик"** 
 - 🎯 Осознанно выбрал Java за стабильность, востребованность и мощную экосистему
 - 🌱 Изучаю: Java, Spring Boot, JPA, PostgreSQL, Docker
 - 📫 Связаться со мной:  
   [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/EgorNasonov86) 
-  [![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail&logoColor=FF5E5E)](mailto:ваш@email.com)
+  [![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail&logoColor=FF5E5E)](mailto:textile2006@list.ru)
 
 ---
 
@@ -62,7 +62,7 @@
 
 ### 📚 Курсы и обучение
 
-- 🎓 **Хекслет** — Java-разработчик (модуль 5/7)
+- 🎓 **Хекслет** — Java-разработчик 
 - 📘 **Udemy** — Андрей Сумин "Java с нуля до Junior"
 - 📱 **Sololearn** — Java Intermediate, Introduction to LLMs, Tech for Everyone
 
