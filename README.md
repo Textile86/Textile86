@@ -1,24 +1,21 @@
-# 👋 Привет, я Егор
+# Привет, я Егор
 
-🔥 **Java-разработчик** в активном поиске первой коммерческой позиции  
-🚀 Цель: расти в backend-разработке и enterprise-решениях
-
----
-
-### 🧑‍💻 Обо мне
-
-- 🎓 Окончил курс **Хекслет "Java-разработчик"** (10 месяцев, 7 модулей) — [сертификат №971591](https://textile86.github.io/)
-- 🤝 Участвую в командной open-source разработке: [Hexlet CV](https://github.com/hexlet-volunteers/hexlet-cv)
-- 🃏 Работаю над pet-проектом: многопользовательский онлайн-покер с WebSocket
-- 🎯 Осознанно выбрал Java за стабильность, востребованность и мощную экосистему
-- 🌱 Изучаю: Java, Spring Boot, JPA, PostgreSQL, Docker
-- 📫 Связаться со мной:  
-  [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/EgorNasonov86) 
-  [![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail&logoColor=FF5E5E)](mailto:textile2006@list.ru)
+Java-разработчик (backend), нацелен на позицию уровня Junior. Прошёл курс «Java-разработчик» Хекслет и участвую в командной open-source разработке.
 
 ---
 
-### 🛠️ Мой стек
+## Обо мне
+
+- Окончил курс Хекслет «Java-разработчик» (10 месяцев, 7 модулей) — [сертификат](https://textile86.github.io/)
+- Участвую в командной open-source разработке: [Hexlet CV](https://github.com/hexlet-volunteers/hexlet-cv)
+- Работаю над pet-проектом: многопользовательский онлайн-покер в реальном времени
+- Изучаю: Java, Spring Boot, Spring Security, JPA, PostgreSQL, Docker
+
+Контакты: [Telegram](https://t.me/EgorNasonov86) · [Email](mailto:textile2006@list.ru) · [Сайт](https://textile86.github.io/)
+
+---
+
+## Стек
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -31,81 +28,83 @@
 
 ---
 
-### 📌 Мои ключевые проекты
+## Проекты
 
-#### 🃏 [Friendly Poker](https://github.com/Textile86/friendlypoker) *(в разработке)*
-Многопользовательская онлайн-игра покер с гибкой настройкой столов.  
-Real-time коммуникация, иммутабельная доменная модель, event-driven игровой движок.  
-🔧 **Стек:** Java 21, Spring Boot, WebSocket (STOMP), Docker, Яндекс Cloud
+### [Friendly Poker](https://github.com/Textile86/friendlypoker) — в разработке
 
-#### 📋 [Менеджер задач](https://github.com/Textile86/java-project-99)
-Полноценный таск-трекер с ролевой моделью, фильтрацией, статусами и метками.  
-🔧 **Стек:** Spring Boot, Spring Security, JPA, PostgreSQL, Liquibase, JWT  
-🚀 **Демо:** [Render](https://java-project-99-0dzq.onrender.com/#/login)  
-*(⚠️ Холодный старт до 60 сек. Логин: admin@example.com / qwerty)*
+Многопользовательская онлайн-игра в покер с настройкой игровых столов. Real-time коммуникация через WebSocket (STOMP), иммутабельная доменная модель, event-driven игровой движок. Деплой через Docker на VPS.
 
-#### 📝 [Spring Blog](https://github.com/Textile86/hexlet-spring-blog)
-Блог-платформа с авторизацией, управлением постами и комментариями.  
-🔧 **Стек:** Spring Boot, Spring MVC, Spring Data JPA, PostgreSQL, Thymeleaf  
-🚀 **Демо:** [Railway](https://hexlet-spring-blog-production.up.railway.app/login.html)
+Стек: Java 21, Spring Boot, WebSocket (STOMP), PostgreSQL, Docker, nginx  
+Демо: https://friendlypoker.online
 
-#### 🌐 [Анализатор страниц](https://github.com/Textile86/java-project-72)
-Веб-приложение для анализа HTML-страниц: извлечение метаданных, формирование отчётов.  
-🔧 **Стек:** Java, Javalin, Jsoup, PostgreSQL, JDBC, Thymeleaf
+### [Менеджер задач](https://github.com/Textile86/java-project-99)
 
-#### 🔍 [Вычислитель отличий](https://github.com/Textile86/java-project-71)
-Утилита для сравнения файлов JSON/YAML с выводом в нескольких форматах (stylish, plain, json).  
-🔧 **Стек:** Java, JCommander, Jackson, JUnit, Gradle
+Веб-приложение для управления задачами: аутентификация, ролевая модель, фильтрация, статусы и метки.
 
-#### ✅ [Валидатор данных](https://github.com/Textile86/java-project-78)
-Fluent-интерфейс для декларативной валидации данных: строки, числа, объекты, цепочки правил.  
-🔧 **Стек:** Java, JUnit, Gradle, параметризованные тесты
+Стек: Spring Boot, Spring Security, JPA, PostgreSQL, JWT  
+Демо: https://java-project-99-0dzq.onrender.com/#/login (холодный старт до 60 сек, логин: admin@example.com / qwerty)
 
-#### 🧩 [Игры разума](https://github.com/Textile86/java-project-61)
-Набор из пяти консольных игр — первый учебный проект курса.  
-🔧 **Стек:** Java, Gradle, JUnit, Checkstyle  
-✅ CI/CD: GitHub Actions
+### [Spring Blog](https://github.com/Textile86/hexlet-spring-blog)
 
----
+Блог-платформа с авторизацией, управлением постами и комментариями.
 
-### 🤝 Open Source
+Стек: Spring Boot, Spring MVC, Spring Data JPA, PostgreSQL, Thymeleaf  
+Демо: https://hexlet-spring-blog-production.up.railway.app/login.html
 
-#### [Hexlet CV](https://github.com/hexlet-volunteers/hexlet-cv) — командный проект
-Платформа для создания резюме. Участвую как backend-разработчик.  
-🔧 **Стек:** Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL, JWT, InertiaJS, React
+### [Анализатор страниц](https://github.com/Textile86/java-project-72)
 
-**Мои Pull Requests:**
+Веб-приложение для анализа HTML-страниц: извлечение метаданных, формирование отчётов.
 
-| Статус | PR |
-|--------|----|
-| ✅ Merged | [#1086](https://github.com/hexlet-volunteers/hexlet-cv/pull/1086), [#1087](https://github.com/hexlet-volunteers/hexlet-cv/pull/1087), [#1091](https://github.com/hexlet-volunteers/hexlet-cv/pull/1091) |
-| 🔄 Open | [#1075](https://github.com/hexlet-volunteers/hexlet-cv/pull/1075), [#1078](https://github.com/hexlet-volunteers/hexlet-cv/pull/1078), [#1089](https://github.com/hexlet-volunteers/hexlet-cv/pull/1089), [#1093](https://github.com/hexlet-volunteers/hexlet-cv/pull/1093) |
+Стек: Java, Javalin, Jsoup, PostgreSQL, JDBC
+
+### [Вычислитель отличий](https://github.com/Textile86/java-project-71)
+
+CLI-утилита для сравнения JSON/YAML файлов с выводом в нескольких форматах (stylish, plain, json).
+
+Стек: Java, Jackson, JUnit, Gradle
+
+### [Валидатор данных](https://github.com/Textile86/java-project-78)
+
+Fluent-интерфейс для декларативной валидации данных: строки, числа, объекты, цепочки правил.
+
+Стек: Java, JUnit, Gradle
+
+### [Игры разума](https://github.com/Textile86/java-project-61)
+
+Набор из пяти консольных игр — первый учебный проект курса.
+
+Стек: Java, Gradle, JUnit, Checkstyle
 
 ---
 
-### 📚 Курсы и обучение
+## Open Source
 
-- 🎓 **Хекслет** — Java-разработчик (10 месяцев, сертификат №971591, апрель 2026)
-- 🏛️ **Harvard University** — CS50: Introduction to Computer Science
-- 📘 **Udemy** — Андрей Сумин "Java с нуля до Junior + Подготовка к собеседованию"
-- 📱 **Sololearn** — Introduction to Java, Java Intermediate, Introduction to LLMs, Tech for Everyone
-- 📖 **Задачник Java по уровням** (Трепачев Дмитрий) — решено более 100 задач
+### [Hexlet CV](https://github.com/hexlet-volunteers/hexlet-cv) — командный проект (волонтёр)
 
----
+Платформа «Хекслет Карьера» для IT-специалистов. Участвую как backend-разработчик в команде с code review наставника.
 
-### 🎯 Мои цели на ближайшее время
+Стек: Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL, JWT, React
 
-- 🃏 Завершить и задеплоить Friendly Poker
-- 💼 Найти первую коммерческую работу или стажировку
-- 🐳 Углубиться в Docker, Kubernetes и тестирование
+11 pull request'ов замержено в main:
+
+- Безопасность (OWASP Top 10): [#1260](https://github.com/hexlet-volunteers/hexlet-cv/pull/1260), [#1290](https://github.com/hexlet-volunteers/hexlet-cv/pull/1290), [#1271](https://github.com/hexlet-volunteers/hexlet-cv/pull/1271), [#1292](https://github.com/hexlet-volunteers/hexlet-cv/pull/1292)
+- Backend: [#1078](https://github.com/hexlet-volunteers/hexlet-cv/pull/1078), [#1091](https://github.com/hexlet-volunteers/hexlet-cv/pull/1091), [#1089](https://github.com/hexlet-volunteers/hexlet-cv/pull/1089), [#1087](https://github.com/hexlet-volunteers/hexlet-cv/pull/1087), [#1086](https://github.com/hexlet-volunteers/hexlet-cv/pull/1086)
+- Frontend и документация: [#1100](https://github.com/hexlet-volunteers/hexlet-cv/pull/1100), [#1075](https://github.com/hexlet-volunteers/hexlet-cv/pull/1075)
 
 ---
 
-### 📈 Моя активность
+## Курсы и обучение
 
-![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=Textile86&theme=default)
+- Хекслет — Java-разработчик (10 месяцев, сертификат №971591)
+- Harvard University — CS50: Introduction to Computer Science
+- Udemy — Андрей Сумин «Java с нуля до Junior + Подготовка к собеседованию»
+- Sololearn — Introduction to Java, Java Intermediate, Introduction to LLMs, Tech for Everyone
+- Задачник Java по уровням (Трепачев Дмитрий) — решено более 100 задач
 
 ---
 
-✨ **Открыт для сотрудничества и предложений о работе!**  
-📩 Пишите в Telegram или на почту — всегда на связи.
+## Контакты
+
+Открыт к предложениям о работе — Java-разработчик (backend).
+
+[Telegram](https://t.me/EgorNasonov86) · [Email](mailto:textile2006@list.ru) · [GitHub](https://github.com/Textile86) · [Сайт](https://textile86.github.io/)
